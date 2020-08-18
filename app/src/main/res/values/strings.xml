@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DemoMVP</string>
+    <string name="title_like">Like</string>
+    <string name="title_comment">Comment</string>
+    <string name="title_login">Nhập thông tin để đăng nhập</string>
+    <string name="hint_edt_post">Create New Post!</string>
+    <string name="hint_edt_email">Email</string>
+    <string name="hint_edt_username">Username</string>
+    <string name="title_btn_login">Login</string>
 </resources>

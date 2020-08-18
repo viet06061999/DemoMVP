@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--hight-->
+    <dimen name="hight_0dp">0dp</dimen>
+    <dimen name="hight_0_5dp">0.5dp</dimen>
+    <dimen name="hight_1dp">1dp</dimen>
+    <dimen name="hight_32dp">32dp</dimen>
+    <dimen name="hight_48dp">48dp</dimen>
+    <dimen name="hight_64dp">64dp</dimen>
+    <dimen name="hight_160dp">160dp</dimen>
+    <!--width-->
+    <dimen name="width_0dp">0dp</dimen>
+    <dimen name="width_64dp">64dp</dimen>
+    <dimen name="width_120dp">120dp</dimen>
+    <!--padding-->
+    <dimen name="padding_10dp">10dp</dimen>
+    <!--margin-->
+    <dimen name="margin_3dp">3dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <!--text size-->
+    <dimen name="text_size_12sp">12sp</dimen>
+    <dimen name="text_size_13sp">13sp</dimen>
+    <dimen name="text_size_14sp">14sp</dimen>
+    <dimen name="text_size_15sp">15sp</dimen>
+    <dimen name="text_size_16sp">16sp</dimen>
+    <dimen name="text_size_20sp">20sp</dimen>
+    <dimen name="text_size_32sp">32sp</dimen>
+    <!--size with both width and hight-->
+    <dimen name="size_8dp">8dp</dimen>
+    <dimen name="size_15dp">15dp</dimen>
+    <dimen name="size_24dp">24dp</dimen>
+    <dimen name="size_36dp">36dp</dimen>
+    <dimen name="size_48dp">48dp</dimen>
+    <dimen name="size_60dp">60dp</dimen>
+    <dimen name="size_120dp">120dp</dimen>
+</resources>
